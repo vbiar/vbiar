@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### My Status
+### My Stats
 <div>
 <a href="https://github.com/vbiar">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbiar&layout=compact&langs_count=7&theme=dracula"/>
